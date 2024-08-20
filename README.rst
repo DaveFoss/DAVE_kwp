@@ -31,7 +31,7 @@ Overview
     :target: https://pypi.org/project/dave_kwp
 
 .. |docs| image:: https://readthedocs.org/projects/dave_kwp/badge/?version=latest
-    :target: https://dave-data.readthedocs.io/en/latest/?badge=latest
+    :target: https://dave-kwp.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
 .. |github-actions| image:: https://github.com/DaveFoss/DAVE_kwp/actions/workflows/github-actions.yml/badge.svg
@@ -83,7 +83,7 @@ Documentation
 =============
 
 
-https://dave-data.readthedocs.io
+https://dave-kwp.readthedocs.io
 
 
 Development
