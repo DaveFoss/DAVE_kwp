@@ -14,21 +14,6 @@ Overview
     * - package
       - |version| |wheel| |supported-versions| |supported-implementations| |commits-since|
 
-.. |version| image:: https://img.shields.io/pypi/v/dave_kwp.svg
-    :alt: PyPI Package latest release
-    :target: https://pypi.org/project/dave_kwp
-
-.. |wheel| image:: https://img.shields.io/pypi/wheel/dave_kwp.svg
-    :alt: PyPI Wheel
-    :target: https://pypi.org/project/dave_kwp
-
-.. |supported-versions| image:: https://img.shields.io/pypi/pyversions/dave_kwp.svg
-    :alt: Supported versions
-    :target: https://pypi.org/project/dave_kwp
-
-.. |supported-implementations| image:: https://img.shields.io/pypi/implementation/dave_kwp.svg
-    :alt: Supported implementations
-    :target: https://pypi.org/project/dave_kwp
 
 .. |docs| image:: https://readthedocs.org/projects/dave_kwp/badge/?version=latest
     :target: https://dave-kwp.readthedocs.io/en/latest/?badge=latest
